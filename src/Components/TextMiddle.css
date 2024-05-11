@@ -1,0 +1,37 @@
+
+.custom-h2 {
+    font-size: 30px; 
+    font-weight: bold;
+    color: #101828;
+    margin-bottom: 10px; 
+    font-family: inter;
+    
+}
+
+.custom-p {
+    font-size: 16px; 
+    color: #475467;
+    margin-top: 0; 
+    margin-bottom: 20px;
+    font-family: inter
+}
+
+.btn-primary.same-size-btn{
+    background-color: #7F56D9;
+    border-color: #7F56D9;
+}
+
+.btn-secondary.same-size-btn{
+    background-color: #FFFFFF;
+    border-color: #D0D5DD;
+    color:#344054;
+}
+
+.custom-sign-up-text:hover{
+    filter: brightness(90%);
+}
+
+.custom-demo-text:hover{
+    filter: brightness(90%);
+}
+

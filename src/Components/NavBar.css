@@ -1,0 +1,9 @@
+#homeDropdown::after{
+    display: none;
+}
+
+#pricingDropdown::after{
+    display: none;
+}
+
+
